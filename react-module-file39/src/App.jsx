@@ -3,6 +3,7 @@ import './App.css'
 
 import Counter from './Counter'
 import Batsman from './Batsman'
+import Users from './Users'
 
 function App() {
 
@@ -24,6 +25,8 @@ function App() {
     <>
 
       <h3>Vite + React</h3>
+
+      <Users></Users>
 
       <Batsman></Batsman>
 
